@@ -1,5 +1,5 @@
 # Privacy-Preserving-Stroke-Prediction-using-Differential-Privacy
-# Privacy-Preserving Stroke Prediction using Differential Privacy
+
 
 ## Overview
 
